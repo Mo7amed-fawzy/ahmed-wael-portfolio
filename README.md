@@ -1,5 +1,9 @@
 # React + TypeScript + Vite
 
+npm install bootstrap @fortawesome/fontawesome-free
+npm install particles.js
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
