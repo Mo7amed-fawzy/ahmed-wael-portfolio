@@ -67,7 +67,7 @@ export const content = {
         ],
         photo: {
             // Leave src empty to show a colored circle with initials instead.
-            src: '',
+            src: '/ahmed-profile.jpg',
             alt: 'Ahmed Wael Profile',
         },
         // Contact details shown under "Who I Am".
